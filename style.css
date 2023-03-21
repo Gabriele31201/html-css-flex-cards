@@ -14,9 +14,19 @@
 
 .mt-p{
     margin-top: 20px;
+    text-align: center;
 }
 
 .flex-title{
     display: flex;
     justify-content: center;
+}
+
+.flex-p{
+    display: flex;
+    justify-content: center;
+}
+
+.size-image{
+    margin-block: 20px;
 }

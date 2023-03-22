@@ -5,7 +5,7 @@
 }
 
 .font-family{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Fredoka one;
 }
 
 .mt-h1{
@@ -32,6 +32,7 @@
     margin: auto;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-top: 50px;
     
 }
 
@@ -41,7 +42,7 @@
     background-color: black;
     width: 30%;
     height: 80px;
-    min-width: 250px;
+    min-width: 300px;
     margin: 20px;
     align-items: center;
 }

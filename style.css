@@ -14,15 +14,24 @@
 
 .mt-p{
     margin-top: 20px;
-    text-align: center;
+     
+    
+   
 }
+    
+    
+   
 
 .title{
     text-align: center;
+    color: fuchsia;
 }
 
 .p{
     text-align: center;
+    
+    
+
     
 }
 
@@ -51,6 +60,12 @@
 .team-info{
     color: white;
     margin-left: 20px;
+}
+
+
+.email-color{
+    color: rgb(69, 175, 236);
+
 }
     
 
